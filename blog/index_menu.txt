@@ -1,0 +1,28 @@
+<span class="TallRed">int.links<br></span>
+Content, things for you to click.
+<div style="padding-left:8px;"><a href="http://www.blogger.com">Log In</a><sup><A style="font-weight:bold;color:#000000;font-size:12px" HREF="JavaScript: alert('To log in, you need to fill out an E3R application. Once you are given your login and password you may login here.');">!</a></sup><br>
+<a href="http://www.devlogik.com/www/E3R_2/blog/index.php">Blog</a><br>
+<a href="http://www.dform.org">Current Splash</a><br>
+<a href="http://www.devlogik.com/www/E3R_2/texts/josephburdick_theE3Rtheory.php">Read the actual E3R theory essay!</a><br>
+<a href="http://www.devlogik.com/www/E3R_2/blog/archive/index.php">Archives</a><br>
+<a href="atom.xml">RSS Syndication</a><br>
+<a href="http://www.devlogik.com/www/E3R_2/application.php">Apply 4 E3R!</a><br>
+<a href="mailto:devlogik@gmail.com?subject=[THE ELECTRONIC THIRD] Yo, I gotsa Question...?body=Silly Willy.">Contact Devlogik</a>
+</div>
+<br>
+<span class="TallRed">ext.links<br></span>
+Extra things laying around as well as nice sites to see.
+<div style="padding-left:8px;"><a href="http://www.nowgocreate.com">NowGoCreate</a><br>
+<a href="http://10x.dform.org">10X</a><br>
+<a href="http://www.devlogik.com">Devlogik</a><br>
+<a href="http://www.sloweducation.com">SLOWed</a><br>
+</div>
+<br>
+<span class="TallRed">Want to post?<br></span>
+
+	  It's easy. You have two options. You can either log in anonymously as CONTRIBUTOR<A style="font-size:12px;font-weight:bold;color:#FF0000;" HREF="JavaScript: alert('To log in as CONTRIBUTOR go to http://www.blogger.com. At the login prompt, put in E3R_CONTRIBUTOR for both the login and password. No one will release any information about you but please refrain from foolishness.');">*</a> or fill out an application for your own personalized E3R ID and posting capabilities. <br><br>Click <a href="http://www.devlogik.com/www/E3R_2/application.php">here</a> to sign up now.
+
+
+<br><br><small><b>hosted by the <a href="http://www.devlogik.com">D!</a></b></small><br><br><br><br><center><a href="http://www.devlogik.com"><img src="http://www.devlogik.com/www/E3R_2/img/int/devlogik_logo.jpg" border="0"></a><br><br><a href="http://www.blogger.com"><img src="http://www.devlogik.com/www/E3R_2/img/int/blogger_logo.jpg" border="0"></a>
+</center>
+

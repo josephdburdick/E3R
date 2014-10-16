@@ -1,0 +1,3 @@
+<span class="TallRed"><$BlogTitle$><br></span>
+      <span class="black">
+	  <$BlogDescription$></span>

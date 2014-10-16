@@ -1,0 +1,5 @@
+<span class="TallRed">The E3R Application.<br></span>
+      <span class="black">
+	  Want to be a member?<br>
+	  All you have to do is fill out the following form <b>HONESTLY</b>. It will be sent to the E3R webmaster and he will review it with Devlogik. 
+	  Posting hasn't started just yet but reserve your account today so you'll be first to head the return of E3R.<br><br>- FSEVN, webmaster</span>
